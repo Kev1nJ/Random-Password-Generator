@@ -8,6 +8,8 @@ var wordLength = 8;
 
 function generatePassword (upperCase,lowerCase,numeric,specialCharacter,wordLength){
 
+  //IF STATEMENTS
+
   console.log("Thank you for clicking the button!")
 
 
