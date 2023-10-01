@@ -41,4 +41,6 @@ The code is structured as follows:
   - It constructs an array of possible characters based on user choices.
   - It generates a random password using the selected characters and retrns it.
 - Event listeners are used to trigger the password generation and display the password in the HTML.
+- ![image](https://github.com/Kev1nJ/Random-Password-Generator/assets/137011939/0d0fbf7b-62fb-475d-afcf-e8be59178e9f)
+
 
